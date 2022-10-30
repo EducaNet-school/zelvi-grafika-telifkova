@@ -11,3 +11,5 @@ test_list = test_list[-3:] + test_list[:-3]
 
 print ("List after right rotate (back to original) : "
 										+ str(test_list))
+#bylo by dobre, kdybych mohl zadat o kolik 
+#chci provest rotaci
